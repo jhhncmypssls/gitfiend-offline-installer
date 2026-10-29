@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 GitFiend Free Installer** — GitFiend is a free, open-source Git client for Windows, macOS, and Linux with a unique visual approach to presenting commits and branches. Works without internet access, no account required. Full offline installation.
+**💻 GitFiend Free Installer** — GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux with a focus on a clean, modern interface. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About GitFiend
 
-GitFiend is a free, open-source Git client for Windows, macOS, and Linux with a unique visual approach to presenting commits and branches. It focuses on making Git history readable and provides a simple interface for common Git operations.
+GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux with a focus on a clean, modern interface. Features include a visual commit graph, commit creation, branch management, and basic diff viewing. GitFiend targets Git beginners and casual users who want an approachable visual interface for everyday Git operations.
 
 ---
 
 ## ❌ Problem: GitFiend is hard to access
 
-- **Early Development** — Feature set still incomplete compared to mature clients
-- **Small Community** — Limited tutorials and user resources
-- **Limited Advanced Git** — Complex operations require falling back to command line
-- **Interface Style** — Visual approach distinctive but not for every user
+- **Limited Features** — Basic feature set; advanced Git operations require command line
+- **Small Community** — Limited resources and tutorials compared to major Git clients
+- **Development Activity** — Community project with variable update frequency
+- **Complex Workflows** — Not suitable for professional complex Git workflows
 
 ---
 
@@ -121,7 +121,7 @@ GitFiend is a free, open-source Git client for Windows, macOS, and Linux with a 
 
 ---
 
-**GitFiend Free Installer** — GitFiend is a free, open-source Git client for Windows, macOS, and Linux with a unique visual approach to presenting commits and branches. Install without internet connection today!
+**GitFiend Free Installer** — GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux with a focus on a clean, modern interface. Install without internet connection today!
 
 <div align="center">
 
